@@ -1,0 +1,15 @@
+{
+    "id": "twitterremover",
+    "name": "X (formerly Twitter) Remover",
+    "author": ["pi_cubed"],
+    "description": "Removes the mark of the beast from the title screen.",
+    "prefix": "killtwitter",
+    "main_file": "killtwitter.lua",
+    "badge_colour": "0000FF",
+    "display_name": "Kill Twitter",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-0711a)"
+    ],
+    "version": "1.0.0",
+    "allow_redistribution": true
+}
